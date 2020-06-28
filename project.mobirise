@@ -52,12 +52,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Aff.Oriflames",
-        "meta_descr": "Affiliasi Marketing Online yang akan memberikan kemudahan untuk membernya dalam mencapai profit ",
+        "title": "JRX.BIZZ",
+        "meta_descr": "Kita hadir untuk membangun suatu jaringan bisnis yang berkelanjutan dengan memberikan kemudahan untuk member kami dalam menjalankan bisnisnya ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1357.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/j.r.x-500x500.png"
       },
       "components": [
         {
